@@ -1,0 +1,2 @@
+# greenNihonzaru
+A small project.
